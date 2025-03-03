@@ -1,0 +1,3 @@
+@echo off
+echo Starting Color Palette Generator development server...
+npm run dev 
